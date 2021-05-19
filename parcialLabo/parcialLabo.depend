@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1621436078 source:c:\users\cris\documents\cosasfacu\parciallabo\algo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"algo.h"
+
+1621436195 source:c:\users\cris\documents\cosasfacu\parciallabo\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1621436195 source:c:\users\cris\documents\cosasfacu\parciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algo.h"
+	"menu.h"
+
+1621435154 c:\users\cris\documents\cosasfacu\parciallabo\algo.h
+
+1621431568 c:\users\cris\documents\cosasfacu\parciallabo\menu.h
+
